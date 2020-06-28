@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" >
+    <title>test01</title>
+</head>
+<body>
+    <h3>恭喜跳转成功</h3>
+    <div th:utext="${hello}"></div>
+    <div th:text="${hello}"></div>
+    <span th:text="${msg}">这是原来的文本</span>
+    <span th:text="${#uris}">这是原来的文本</span>
+    <span th:text="${name}" th:each="name:${data}">遍历</span>
+</body>
+</html>
