@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springbootcache/springbootcache.iml" filepath="$PROJECT_DIR$/springbootcache/springbootcache.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootcrud/springbootcrud.iml" filepath="$PROJECT_DIR$/springbootcrud/springbootcrud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbootweb/springbootweb.iml" filepath="$PROJECT_DIR$/springbootweb/springbootweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmybatisplus/springbootmybatisplus.iml" filepath="$PROJECT_DIR$/springbootmybatisplus/springbootmybatisplus.iml" />
     </modules>
   </component>
 </project>

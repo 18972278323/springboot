@@ -2,7 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f15fd41-0ed7-4d1d-a92c-d9ecb3e4520c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/java/cn/cigar/springbootmybatisplus/SpringbootmybatisplusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/java/cn/cigar/springbootmybatisplus/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/java/cn/cigar/springbootmybatisplus/handler/MyBatisPlusHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/java/cn/cigar/springbootmybatisplus/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/main/resources/templates/test01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootmybatisplus/src/test/java/cn/cigar/springbootmybatisplus/SpringbootmybatisplusApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootcrud/src/main/java/cn/cigar/springbootcrud/mapper/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootcrud/src/main/java/cn/cigar/springbootcrud/mapper/EmployeeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/java/cn/cigar/springbootweb/SpringbootwebApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/java/cn/cigar/springbootweb/config/AdvanceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/java/cn/cigar/springbootweb/config/MyViewResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/java/cn/cigar/springbootweb/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/main/resources/templates/test01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootweb/src/test/java/cn/cigar/springbootweb/SpringbootwebApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +96,14 @@
       <list>
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,13 +119,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1doede4CryNaHhROta767KaIxAP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -53,12 +139,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="jdk1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springbootcrud/src/main/java/cn/cigar/springbootcrud/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springbootmybatisplus" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -73,66 +159,82 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SpringbootcrudApplicationTests.testAddEmployee">
-    <configuration name="SpringbootcrudApplicationTests.testAddDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootcrud" />
+  <component name="RunManager" selected="JUnit.SpringbootmybatisplusApplicationTests.testAutoCompleteUpdate">
+    <configuration name="SpringbootmybatisplusApplicationTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootmybatisplus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.cigar.springbootcrud.*" />
+          <option name="PATTERN" value="cn.cigar.springbootmybatisplus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.cigar.springbootcrud" />
-      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootcrud.SpringbootcrudApplicationTests" />
-      <option name="METHOD_NAME" value="testAddDepartment" />
+      <option name="PACKAGE_NAME" value="cn.cigar.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testAdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootcrudApplicationTests.testAddEMployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootcrud" />
+    <configuration name="SpringbootmybatisplusApplicationTests.testAutoCompleteUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootmybatisplus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.cigar.springbootcrud.*" />
+          <option name="PATTERN" value="cn.cigar.springbootmybatisplus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.cigar.springbootcrud" />
-      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootcrud.SpringbootcrudApplicationTests" />
-      <option name="METHOD_NAME" value="testAddEMployee" />
+      <option name="PACKAGE_NAME" value="cn.cigar.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testAutoCompleteUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootcrudApplicationTests.testAddEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootcrud" />
+    <configuration name="SpringbootmybatisplusApplicationTests.testId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootmybatisplus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.cigar.springbootcrud.*" />
+          <option name="PATTERN" value="cn.cigar.springbootmybatisplus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.cigar.springbootcrud" />
-      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootcrud.SpringbootcrudApplicationTests" />
-      <option name="METHOD_NAME" value="testAddEmployee" />
+      <option name="PACKAGE_NAME" value="cn.cigar.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testId" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootwebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootweb" />
+    <configuration name="SpringbootmybatisplusApplicationTests.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootmybatisplus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.cigar.springbootweb.*" />
+          <option name="PATTERN" value="cn.cigar.springbootmybatisplus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.cigar.springbootweb" />
-      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootweb.SpringbootwebApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="PACKAGE_NAME" value="cn.cigar.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootmybatisplusApplicationTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootmybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cigar.springbootmybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cigar.springbootmybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,6 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootmybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootmybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cigar.springbootmybatisplus.SpringbootmybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootwebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springbootweb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.cigar.springbootweb.SpringbootwebApplication" />
@@ -161,10 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringbootcrudApplicationTests.testAddEmployee" />
-        <item itemvalue="JUnit.SpringbootcrudApplicationTests.testAddDepartment" />
-        <item itemvalue="JUnit.SpringbootcrudApplicationTests.testAddEMployee" />
-        <item itemvalue="JUnit.SpringbootwebApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringbootmybatisplusApplicationTests.testAutoCompleteUpdate" />
+        <item itemvalue="JUnit.SpringbootmybatisplusApplicationTests.testAdd" />
+        <item itemvalue="JUnit.SpringbootmybatisplusApplicationTests.testUpdate" />
+        <item itemvalue="JUnit.SpringbootmybatisplusApplicationTests.testId" />
+        <item itemvalue="JUnit.SpringbootmybatisplusApplicationTests.testSelect" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +317,12 @@
       <option name="presentableId" value="Default" />
       <updated>1593095961578</updated>
       <workItem from="1593095964947" duration="40846000" />
-      <workItem from="1593351936971" duration="7229000" />
+      <workItem from="1593351936971" duration="8037000" />
+      <workItem from="1594184685190" duration="21000" />
+      <workItem from="1594190742735" duration="923000" />
+      <workItem from="1594278288496" duration="1444000" />
+      <workItem from="1595851104667" duration="1987000" />
+      <workItem from="1595854282244" duration="8186000" />
     </task>
     <task id="LOCAL-00001" summary="初始化SpringBootWeb练习">
       <created>1593359786575</created>
@@ -216,65 +331,85 @@
       <option name="project" value="LOCAL" />
       <updated>1593359786575</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化SpringBootWeb练习">
+      <created>1593359857399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593359857399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初始化SpringBootWeb练习" />
     <option name="LAST_COMMIT_MESSAGE" value="初始化SpringBootWeb练习" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="79" key="#Auto_Import" timestamp="1595855268071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="79" key="#Auto_Import/0.0.1536.834@0.0.1536.834" timestamp="1595855268071" />
     <state x="361" y="79" key="#Project_Structure" timestamp="1593096280010">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1593096280010" />
-    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1593357401145">
+    <state x="554" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1595862554862">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1593357401145" />
+    <state x="554" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1595862554862" />
+    <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595853631380">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="620" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1595853631380" />
     <state x="524" y="125" key="#xdebugger.evaluate" timestamp="1593234519380">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="524" y="125" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1593234519380" />
-    <state x="385" y="13" key="CommitChangelistDialog2" timestamp="1593359785418">
+    <state x="385" y="13" key="CommitChangelistDialog2" timestamp="1593359856330">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593359785418" />
-    <state width="1493" height="266" key="GridCell.Tab.0.bottom" timestamp="1593359526573">
+    <state x="385" y="13" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593359856330" />
+    <state x="549" y="110" key="FileChooserDialogImpl" timestamp="1595853511535">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593359526573" />
-    <state width="1493" height="266" key="GridCell.Tab.0.center" timestamp="1593359526573">
+    <state x="549" y="110" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1595853511535" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1595863363572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593359526573" />
-    <state width="1493" height="266" key="GridCell.Tab.0.left" timestamp="1593359526573">
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1595863363572" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1595863363571">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593359526573" />
-    <state width="1493" height="266" key="GridCell.Tab.0.right" timestamp="1593359526573">
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1595863363571" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1595863363571">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593359526573" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1593359103808">
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1595863363571" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1595863363572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593359103808" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1593359103808">
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1595863363572" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1593360655439">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593359103808" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1593359103808">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593360655439" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1593360655438">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593359103808" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1593359103808">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593360655438" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1593360655438">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593359103808" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593360655438" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1593360655439">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593360655439" />
     <state width="1248" height="339" key="GridCell.Tab.2.bottom" timestamp="1593256741822">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -323,26 +458,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1248" height="226" key="GridCell.Tab.4.right/0.0.1536.834@0.0.1536.834" timestamp="1593175517878" />
-    <state x="272" y="0" key="SettingsEditor" timestamp="1593352600924">
+    <state x="431" y="121" key="NewModule_or_Project.wizard" timestamp="1595853559743">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="272" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593352600924" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1593359828467">
+    <state x="431" y="121" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1595853559743" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1595854261976">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593359828467" />
-    <state x="461" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1593352001201">
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595854261976" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1593359860270">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="461" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1593352001201" />
-    <state x="178" y="34" key="new project wizard" timestamp="1593352592962">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593359860270" />
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1595863395742">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="34" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1593352592962" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1593356583116">
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1595863395742" />
+    <state x="564" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593359916279">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1593356583116" />
+    <state x="564" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1593359916279" />
+    <state x="178" y="34" key="new project wizard" timestamp="1595853134326">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="34" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1595853134326" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1595862853514">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595862853514" />
     <state x="311" y="109" key="spring file set editor" timestamp="1593356578483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -3,13 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/springbootweb/pom.xml" />
         <option value="$PROJECT_DIR$/springbootcache/pom.xml" />
         <option value="$PROJECT_DIR$/springbootcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootmybatisplus/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="jdk1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

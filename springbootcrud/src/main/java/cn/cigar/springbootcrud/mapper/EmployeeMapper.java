@@ -2,6 +2,7 @@ package cn.cigar.springbootcrud.mapper;
 
 import cn.cigar.springbootcrud.entity.Employee;
 import org.apache.ibatis.annotations.*;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 

@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springbootcache" />
-        <module name="springbootweb" />
         <module name="springbootcrud" />
+        <module name="springbootmybatisplus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springbootcache" target="1.8" />
       <module name="springbootcrud" target="1.8" />
+      <module name="springbootmybatisplus" target="1.8" />
       <module name="springbootweb" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springbootcache" options="-parameters" />
       <module name="springbootcrud" options="-parameters" />
+      <module name="springbootmybatisplus" options="-parameters" />
       <module name="springbootweb" options="-parameters" />
     </option>
   </component>
